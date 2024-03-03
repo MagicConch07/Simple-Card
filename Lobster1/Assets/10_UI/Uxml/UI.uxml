@@ -2,11 +2,11 @@
     <Style src="project://database/Assets/10_UI/Uss/Game.uss?fileID=7433441132597879392&amp;guid=c01ecdc8fe9f389458c1938108ebbccb&amp;type=3#Game" />
     <ui:VisualElement name="container" style="flex-grow: 1; flex-direction: row; width: 400%; left: 0;">
         <ui:VisualElement name="contants" style="flex-direction: row; width: 25%; height: 97%; justify-content: center; align-items: flex-end;">
-            <ui:VisualElement name="card1" class="card" style="flex-grow: 0; flex-shrink: 1; rotate: -20deg; transform-origin: 150% top; background-color: rgb(226, 255, 162); border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255);" />
+            <ui:VisualElement name="card1" class="card" style="rotate: -20deg; transform-origin: 150% top; background-color: rgb(226, 255, 162); border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); -unity-background-scale-mode: stretch-to-fill;" />
             <ui:VisualElement name="card2" class="card" style="rotate: -10deg; transform-origin: right top; background-color: rgb(255, 145, 0);" />
             <ui:VisualElement name="card3" class="card" />
             <ui:VisualElement name="card4" class="card" style="rotate: 10deg; background-color: rgb(28, 41, 0); transform-origin: left top;" />
-            <ui:VisualElement name="card5" class="card" style="rotate: 20deg; flex-shrink: 1; background-color: rgb(144, 16, 122); transform-origin: -50% top;" />
+            <ui:VisualElement name="card5" class="card" style="rotate: 20deg; background-color: rgb(144, 16, 122); transform-origin: -50% top;" />
         </ui:VisualElement>
     </ui:VisualElement>
     <ui:VisualElement name="contants-bottom" style="flex-grow: 1; height: 3%; width: auto;" />

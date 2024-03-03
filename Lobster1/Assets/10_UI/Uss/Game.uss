@@ -43,3 +43,17 @@
     transition-duration: 0.22s;
     translate: 0 -75px;
 }
+
+.card-select {
+    rotate: 0;
+    flex-shrink: 1;
+    transform-origin: center;
+    position: relative;
+    margin-top: 0;
+    margin-right: 45px;
+    margin-bottom: 0;
+    margin-left: 45px;
+    bottom: auto;
+    transition-duration: 0.22s;
+    translate: 0 -75px;
+}
